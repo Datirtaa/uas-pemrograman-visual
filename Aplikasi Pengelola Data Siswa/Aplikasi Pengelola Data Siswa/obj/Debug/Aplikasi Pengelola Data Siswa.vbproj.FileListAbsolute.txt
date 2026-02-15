@@ -1,0 +1,11 @@
+D:\KULIAH\Semester 1\Pemrograman Visual\Aplikasi Pengelola Data Siswa\Aplikasi Pengelola Data Siswa\bin\Debug\Aplikasi Pengelola Data Siswa.exe.config
+D:\KULIAH\Semester 1\Pemrograman Visual\Aplikasi Pengelola Data Siswa\Aplikasi Pengelola Data Siswa\bin\Debug\Aplikasi Pengelola Data Siswa.exe
+D:\KULIAH\Semester 1\Pemrograman Visual\Aplikasi Pengelola Data Siswa\Aplikasi Pengelola Data Siswa\bin\Debug\Aplikasi Pengelola Data Siswa.pdb
+D:\KULIAH\Semester 1\Pemrograman Visual\Aplikasi Pengelola Data Siswa\Aplikasi Pengelola Data Siswa\bin\Debug\Aplikasi Pengelola Data Siswa.xml
+D:\KULIAH\Semester 1\Pemrograman Visual\Aplikasi Pengelola Data Siswa\Aplikasi Pengelola Data Siswa\obj\Debug\Aplikasi Pengelola Data Siswa.vbproj.AssemblyReference.cache
+D:\KULIAH\Semester 1\Pemrograman Visual\Aplikasi Pengelola Data Siswa\Aplikasi Pengelola Data Siswa\obj\Debug\Aplikasi_Pengelola_Data_Siswa.Resources.resources
+D:\KULIAH\Semester 1\Pemrograman Visual\Aplikasi Pengelola Data Siswa\Aplikasi Pengelola Data Siswa\obj\Debug\Aplikasi Pengelola Data Siswa.vbproj.GenerateResource.cache
+D:\KULIAH\Semester 1\Pemrograman Visual\Aplikasi Pengelola Data Siswa\Aplikasi Pengelola Data Siswa\obj\Debug\Aplikasi Pengelola Data Siswa.vbproj.CoreCompileInputs.cache
+D:\KULIAH\Semester 1\Pemrograman Visual\Aplikasi Pengelola Data Siswa\Aplikasi Pengelola Data Siswa\obj\Debug\Aplikasi Pengelola Data Siswa.exe
+D:\KULIAH\Semester 1\Pemrograman Visual\Aplikasi Pengelola Data Siswa\Aplikasi Pengelola Data Siswa\obj\Debug\Aplikasi Pengelola Data Siswa.xml
+D:\KULIAH\Semester 1\Pemrograman Visual\Aplikasi Pengelola Data Siswa\Aplikasi Pengelola Data Siswa\obj\Debug\Aplikasi Pengelola Data Siswa.pdb

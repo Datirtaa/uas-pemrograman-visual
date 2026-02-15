@@ -1,0 +1,6 @@
+DATA NILAI SISWA
+====================================================================
+Budi Santoso|80|85|90|85|A|LULUS
+Siti Nurhaliza|70|65|75|69.5|C|LULUS
+Ahmad Fauzi|55|60|58|57.9|D|TIDAK LULUS
+Dewi Lestari|90|88|92|89.8|A|LULUS
